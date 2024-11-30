@@ -1,0 +1,1 @@
+# pratikum-6-lab6
