@@ -237,5 +237,6 @@ Hasil Program Tersebut:
 
 Dan Ini Flowchart Code Tersebut:
 
+![flowchart_mahasiswa](https://github.com/user-attachments/assets/bad58049-569e-4df6-b76a-c249bd5c984b)
 
                                    
