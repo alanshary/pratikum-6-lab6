@@ -233,10 +233,9 @@ Code Program Tersebut:
 
 Hasil Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6-Lab6/blob/6094a3460583a3ad6af9360343409bdc57f2a020/Image/Screenshot%20from%202024-11-26%2015-31-05.png)
+![Screenshot (44)](https://github.com/user-attachments/assets/621a95f6-1929-45fc-8edd-e148f54526f5)
 
 Dan Ini Flowchart Code Tersebut:
 
-![Screenshot (44)](https://github.com/user-attachments/assets/621a95f6-1929-45fc-8edd-e148f54526f5)
 
-                                    
+                                   
